@@ -52,7 +52,7 @@ Các từ khóa là shortcut ngữ nghĩa để mô tả nhanh loại công vi�
 | [`/icon`](commands/01-thiet-ke-do-hoa/icon/README.md) | Tạo biểu tượng đơn giản cho ứng dụng hoặc danh mục. |
 | [`/wallpaper`](commands/01-thiet-ke-do-hoa/wallpaper/README.md) | Tạo hình nền cho điện thoại hoặc máy tính. |
 
-### [Ảnh thương mại](commands/02-anh-thuong-mai/README.md)
+### [Ảnh quảng cáo thương mại](commands/02-anh-thuong-mai/README.md)
 
 | Lệnh | Chức năng |
 |---|---|
