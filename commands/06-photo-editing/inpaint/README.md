@@ -6,7 +6,7 @@ Chỉnh một vùng chọn cụ thể trong ảnh.
 
 | Before | After |
 |:---:|:---:|
-| <img src="before.jpg" width="320" alt="Before"> | <img width="1366" height="1152" alt="ChatGPT Image Sep 30, 2026, 03_35_27 PM" src="https://github.com/user-attachments/assets/8c8b5a80-51fc-47d1-a676-805142daa600" />
+| <img src="before.jpg" width="320" alt="Before"> | <img width="320" alt="ChatGPT Image Sep 30, 2026, 03_35_27 PM" src="https://github.com/user-attachments/assets/8c8b5a80-51fc-47d1-a676-805142daa600" />
 
 
 ## Ví dụ lệnh
