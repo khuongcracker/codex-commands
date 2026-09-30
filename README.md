@@ -1,6 +1,6 @@
-<sub>IMAGE SKILL SHORTCUTS</sub>
+<sub>IMAGE PROMPT SHORTCUTS</sub>
 
-# Câu lệnh có sẵn của GPT/Codex, rút ngắn prompt cho từng nhiệm vụ
+# Promp Starter GPT/Codex
 
 **86 lệnh với ví dụ trực quan cho từng lệnh**
 
