@@ -1,10 +1,9 @@
+<img width="1672" height="941" alt="ChatGPT Image Sep 30, 2026, 02_27_34 PM" src="https://github.com/user-attachments/assets/a1cc588f-d935-4a86-aff9-16b627043641" />
 <sub>IMAGE PROMPT SHORTCUTS</sub>
 
 # Promp Starter GPT/Codex
 
 **86 Prompt khới đầu giúp GPT/Codex định hướng nhiệm vũ nhanh hơn với ví dụ trực quan cho từng lệnh**
-
-<img src="cover.jpg" width="420" alt="Ảnh bìa">
 Lưu ý:
 67 lệnh tạo mới có ảnh kết quả riêng. 19 lệnh chỉnh sửa có cặp Before và After riêng.
 
