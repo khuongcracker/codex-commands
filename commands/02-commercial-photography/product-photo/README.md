@@ -1,0 +1,19 @@
+[← Mục lục](../../../README.md) · [Ảnh thương mại](../README.md)
+
+# `/product-photo`
+
+Tạo ảnh sản phẩm theo phong cách chụp studio hoặc lifestyle.
+
+<img src="result.jpg" width="420" alt="Kết quả mẫu">
+
+<sub>Kết quả mẫu</sub>
+
+## Ví dụ lệnh
+
+```text
+/product-photo — chai nước hoa trên đá đen
+```
+
+---
+
+[← `/wallpaper`](../../../commands/01-graphic-design/wallpaper/README.md) · [`/product-mockup` →](../../../commands/02-commercial-photography/product-mockup/README.md)
