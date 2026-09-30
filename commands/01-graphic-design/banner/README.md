@@ -1,4 +1,4 @@
-[← Mục lục](../../../README.md) · [Thiết kế đồ họa](../README.md)
+[← Mục lục](../../../README.md) · [Graphic Design (Thiết kế đồ họa)](../README.md)
 
 # `/banner`
 

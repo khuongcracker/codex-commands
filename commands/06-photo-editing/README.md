@@ -1,6 +1,6 @@
 [← Mục lục](../../README.md)
 
-# Chỉnh sửa ảnh
+# Photo Editing (Chỉnh sửa ảnh)
 
 19 lệnh · Before và After
 

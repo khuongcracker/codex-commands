@@ -1,4 +1,4 @@
-[← Mục lục](../../../README.md) · [Ảnh thương mại](../README.md)
+[← Mục lục](../../../README.md) · [Commercial Advertising Photography (Ảnh quảng cáo thương mại)](../README.md)
 
 # `/product-mockup`
 

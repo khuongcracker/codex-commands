@@ -1,4 +1,4 @@
-[← Mục lục](../../../README.md) · [Chỉnh sửa ảnh](../README.md)
+[← Mục lục](../../../README.md) · [Photo Editing (Chỉnh sửa ảnh)](../README.md)
 
 # `/recolor`
 

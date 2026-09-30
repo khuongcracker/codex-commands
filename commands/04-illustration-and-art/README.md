@@ -1,6 +1,6 @@
 [← Mục lục](../../README.md)
 
-# Minh họa và nghệ thuật
+# Illustration & Art (Minh họa và nghệ thuật)
 
 14 lệnh · Ảnh kết quả
 

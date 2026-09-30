@@ -1,4 +1,4 @@
-[← Mục lục](../../../README.md) · [Minh họa và nghệ thuật](../README.md)
+[← Mục lục](../../../README.md) · [Illustration & Art (Minh họa và nghệ thuật)](../README.md)
 
 # `/children-book`
 

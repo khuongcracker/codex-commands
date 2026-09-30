@@ -1,6 +1,6 @@
 [← Mục lục](../../README.md)
 
-# Ảnh thương mại
+# Commercial Advertising Photography (Ảnh quảng cáo thương mại)
 
 12 lệnh · Ảnh kết quả
 

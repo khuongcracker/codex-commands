@@ -20,14 +20,14 @@ Các từ khóa là shortcut ngữ nghĩa để mô tả nhanh loại công vi�
 
 | Nhóm | Số lệnh | Loại demo |
 |---|---:|---|
-| [Thiết kế đồ họa](commands/01-graphic-design/README.md) | 20 | Ảnh kết quả |
-| [Ảnh thương mại](commands/02-commercial-photography/README.md) | 12 | Ảnh kết quả |
-| [Nhân vật](commands/03-characters/README.md) | 11 | Ảnh kết quả |
-| [Minh họa và nghệ thuật](commands/04-illustration-and-art/README.md) | 14 | Ảnh kết quả |
-| [Sơ đồ và ý tưởng](commands/05-diagrams-and-ideas/README.md) | 10 | Ảnh kết quả |
-| [Chỉnh sửa ảnh](commands/06-photo-editing/README.md) | 19 | Before và After |
+| [Graphic Design (Thiết kế đồ họa)](commands/01-graphic-design/README.md) | 20 | Ảnh kết quả |
+| [Commercial Advertising Photography (Ảnh quảng cáo thương mại)](commands/02-commercial-photography/README.md) | 12 | Ảnh kết quả |
+| [Characters (Nhân vật)](commands/03-characters/README.md) | 11 | Ảnh kết quả |
+| [Illustration & Art (Minh họa và nghệ thuật)](commands/04-illustration-and-art/README.md) | 14 | Ảnh kết quả |
+| [Diagrams & Ideas (Sơ đồ và ý tưởng)](commands/05-diagrams-and-ideas/README.md) | 10 | Ảnh kết quả |
+| [Photo Editing (Chỉnh sửa ảnh)](commands/06-photo-editing/README.md) | 19 | Before và After |
 
-### [Thiết kế đồ họa](commands/01-graphic-design/README.md)
+### [Graphic Design (Thiết kế đồ họa)](commands/01-graphic-design/README.md)
 
 | Lệnh | Chức năng |
 |---|---|
@@ -52,7 +52,7 @@ Các từ khóa là shortcut ngữ nghĩa để mô tả nhanh loại công vi�
 | [`/icon`](commands/01-graphic-design/icon/README.md) | Tạo biểu tượng đơn giản cho ứng dụng hoặc danh mục. |
 | [`/wallpaper`](commands/01-graphic-design/wallpaper/README.md) | Tạo hình nền cho điện thoại hoặc máy tính. |
 
-### [Ảnh quảng cáo thương mại](commands/02-commercial-photography/README.md)
+### [Commercial Advertising Photography (Ảnh quảng cáo thương mại)](commands/02-commercial-photography/README.md)
 
 | Lệnh | Chức năng |
 |---|---|
@@ -69,7 +69,7 @@ Các từ khóa là shortcut ngữ nghĩa để mô tả nhanh loại công vi�
 | [`/catalog`](commands/02-commercial-photography/catalog/README.md) | Tạo ảnh sản phẩm đồng nhất cho danh mục. |
 | [`/lookbook`](commands/02-commercial-photography/lookbook/README.md) | Tạo chuỗi hình thể hiện bộ sưu tập và cách phối. |
 
-### [Nhân vật](commands/03-characters/README.md)
+### [Characters (Nhân vật)](commands/03-characters/README.md)
 
 | Lệnh | Chức năng |
 |---|---|
@@ -85,7 +85,7 @@ Các từ khóa là shortcut ngữ nghĩa để mô tả nhanh loại công vi�
 | [`/comic`](commands/03-characters/comic/README.md) | Tạo phong cách truyện tranh hoặc trang truyện. |
 | [`/figurine`](commands/03-characters/figurine/README.md) | Tạo mockup mô hình nhân vật sưu tầm. |
 
-### [Minh họa và nghệ thuật](commands/04-illustration-and-art/README.md)
+### [Illustration & Art (Minh họa và nghệ thuật)](commands/04-illustration-and-art/README.md)
 
 | Lệnh | Chức năng |
 |---|---|
@@ -104,7 +104,7 @@ Các từ khóa là shortcut ngữ nghĩa để mô tả nhanh loại công vi�
 | [`/collage`](commands/04-illustration-and-art/collage/README.md) | Kết hợp ảnh, giấy và texture theo bố cục cắt dán. |
 | [`/pattern`](commands/04-illustration-and-art/pattern/README.md) | Tạo họa tiết lặp cho vải, giấy hoặc nền. |
 
-### [Sơ đồ và ý tưởng](commands/05-diagrams-and-ideas/README.md)
+### [Diagrams & Ideas (Sơ đồ và ý tưởng)](commands/05-diagrams-and-ideas/README.md)
 
 | Lệnh | Chức năng |
 |---|---|
@@ -119,7 +119,7 @@ Các từ khóa là shortcut ngữ nghĩa để mô tả nhanh loại công vi�
 | [`/technical-drawing`](commands/05-diagrams-and-ideas/technical-drawing/README.md) | Tạo hình kỹ thuật nhấn vào tỷ lệ và cấu tạo. |
 | [`/floor-plan`](commands/05-diagrams-and-ideas/floor-plan/README.md) | Tạo mặt bằng nhìn từ trên xuống cho không gian. |
 
-### [Chỉnh sửa ảnh](commands/06-photo-editing/README.md)
+### [Photo Editing (Chỉnh sửa ảnh)](commands/06-photo-editing/README.md)
 
 | Lệnh | Chức năng |
 |---|---|

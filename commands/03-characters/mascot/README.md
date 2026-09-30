@@ -1,4 +1,4 @@
-[← Mục lục](../../../README.md) · [Nhân vật](../README.md)
+[← Mục lục](../../../README.md) · [Characters (Nhân vật)](../README.md)
 
 # `/mascot`
 

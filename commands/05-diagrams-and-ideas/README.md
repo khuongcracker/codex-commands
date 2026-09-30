@@ -1,6 +1,6 @@
 [← Mục lục](../../README.md)
 
-# Sơ đồ và ý tưởng
+# Diagrams & Ideas (Sơ đồ và ý tưởng)
 
 10 lệnh · Ảnh kết quả
 

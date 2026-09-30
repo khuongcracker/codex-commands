@@ -1,4 +1,4 @@
-[← Mục lục](../../../README.md) · [Sơ đồ và ý tưởng](../README.md)
+[← Mục lục](../../../README.md) · [Diagrams & Ideas (Sơ đồ và ý tưởng)](../README.md)
 
 # `/floor-plan`
 

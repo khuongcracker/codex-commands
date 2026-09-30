@@ -1,6 +1,6 @@
 [← Mục lục](../../README.md)
 
-# Thiết kế đồ họa
+# Graphic Design (Thiết kế đồ họa)
 
 20 lệnh · Ảnh kết quả
 

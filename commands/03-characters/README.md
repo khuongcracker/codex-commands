@@ -1,6 +1,6 @@
 [← Mục lục](../../README.md)
 
-# Nhân vật
+# Characters (Nhân vật)
 
 11 lệnh · Ảnh kết quả
 
