@@ -2,17 +2,17 @@
 
 # Promp Starter GPT/Codex
 
-**86 lệnh với ví dụ trực quan cho từng lệnh**
+**86 Prompt khới đầu giúp GPT/Codex định hướng nhiệm vũ nhanh hơn với ví dụ trực quan cho từng lệnh**
 
 <img src="cover.jpg" width="420" alt="Ảnh bìa">
-
+Lưu ý:
 67 lệnh tạo mới có ảnh kết quả riêng. 19 lệnh chỉnh sửa có cặp Before và After riêng.
 
 ## Cách đọc tài liệu
 
 Mỗi mục bắt đầu bằng từ khóa, sau đó là chức năng, hình minh họa và một câu lệnh mẫu. Các lệnh tạo mới chỉ có ảnh kết quả vì không cần ảnh đầu vào. Các lệnh chỉnh sửa hiển thị Before và After để làm rõ phần thay đổi.
 
-Các từ khóa là shortcut ngữ nghĩa để mô tả nhanh loại công việc; chúng không phải bộ lệnh hệ thống cố định được bảo đảm trên mọi phiên bản. Khi dùng thực tế, hãy viết thêm chủ thể, bối cảnh, phong cách, tỷ lệ và các phần phải giữ nguyên.
+Các từ khóa là shortcut ngữ nghĩa để mô tả nhanh loại công việc; chúng không phải bộ lệnh hệ thống cố định được bảo đảm trên mọi phiên bản. Khi dùng thực tế, hãy viết thêm chủ thể, bối cảnh, phong cách, tỷ lệ và các phần phải giữ nguyên, kết hợp cùng với quy trình lặp lại để tạo thành skill tối ưu và phù hợp nhất.
 
 > Mỗi lệnh nằm trong một thư mục riêng: `commands/<nhóm>/<lệnh>/`. Bấm tên lệnh bên dưới để xem chi tiết.
 
