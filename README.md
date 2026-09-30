@@ -3,7 +3,7 @@
 
 # Promp Starter GPT/Codex
 
-**86 Prompt khới đầu giúp GPT/Codex định hướng nhiệm vũ nhanh hơn với ví dụ trực quan cho từng lệnh**
+**86 Prompt khới đầu giúp GPT/Codex định hướng nhiệm vụ nhanh hơn với ví dụ trực quan**
 Lưu ý:
 67 lệnh tạo mới có ảnh kết quả riêng. 19 lệnh chỉnh sửa có cặp Before và After riêng.
 
