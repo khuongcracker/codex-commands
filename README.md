@@ -1,6 +1,6 @@
 <sub>IMAGE SKILL SHORTCUTS</sub>
 
-# Hướng dẫn từ khóa tạo và chỉnh sửa ảnh
+# Câu lệnh có sẵn của GPT/Codex, rút ngắn prompt cho từng nhiệm vụ
 
 **86 lệnh với ví dụ trực quan cho từng lệnh**
 
